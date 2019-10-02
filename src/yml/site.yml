@@ -1,12 +1,13 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Beyond the Developer
+title: Beyond the Developer
+description: I am Candykick, the Android, and iOS Developer.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - Android
+  - iOS
+  - Drawing
+  - Develop
+  - Programming
+email: woo171tm@naver.com
+disqus_username: 
 show_hero: true

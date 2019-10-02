@@ -1,21 +1,21 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Beyond the Developer
+title: Beyond the Developer
+description: I am Candykick, the Android, and iOS Developer.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - Android
+  - iOS
+  - Drawing
+  - Develop
+  - Programming
+email: woo171tm@naver.com
+disqus_username: 
 show_hero: true
-
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: Candykick
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
@@ -32,10 +32,10 @@ texts: "#333333"
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
-two_columns_layout: true
+show_modal_on_finish_post: false
+two_columns_layout: false
 
 
 # Advanced Settings
