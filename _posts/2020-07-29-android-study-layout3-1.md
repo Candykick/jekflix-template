@@ -4,8 +4,7 @@ layout: post
 title: "안드로이드로 시작하는 개발자 생활 3강 레이아웃"
 subtitle:
 description: "안드로이드로 시작하는 개발자 생활 레이아웃"
-image: 
-"https://drive.google.com/uc?export=view&id=1RYVPWlb1rbj4NribLxj7iO2iJQ5Hf1Ob"
+image: "https://drive.google.com/uc?export=view&id=1RYVPWlb1rbj4NribLxj7iO2iJQ5Hf1Ob"
 optimized_image: "https://drive.google.com/uc?export=view&id=1RYVPWlb1rbj4NribLxj7iO2iJQ5Hf1Ob"
 category: androidstudy
 tags:
