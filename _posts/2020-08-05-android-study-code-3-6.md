@@ -16,13 +16,18 @@ author: candykick
 
 # RecyclerView Adapter 깡통코드
 &nbsp; ★ RecyclerView를 만드신다고요? 이 깡통코드를 응용하시면 됩니다!
-&nbsp;&nbsp
+
+&nbsp; &nbsp;
+
 ## 깡통코드 쓰는 방법
 1. ''로 둘러싸인 부분을 여러분 코드에 맞게 바꿔주세요. 나머지는 그대로 쓰셔도 됩니다.
 2. 아래 코드를 그대로 복사-붙여넣기하지 마시고, 하나씩 입력하시면서 필요한 부분만 바꿔서 써주세요.
 3. 여러분 모두의 코딩 공부를 응원합니다. ㅎㅇㅌ!
-&nbsp;&nbsp
+
+&nbsp; &nbsp;
+
 ## Activity 부분
+
 ```java
 class Activity이름 : AppCompatActivity() {
     //ArrayList 만들기.
@@ -43,9 +48,12 @@ class Activity이름 : AppCompatActivity() {
     }
 }
 ```
-&nbsp;&nbsp
+
+&nbsp; &nbsp;
+
 ## Adapter 부분
 RecyclerView Adapter를 넣을 코틀린 파일을 따로 만드셔야 합니다!
+
 ```java
 /*
 1. Movie Data Class 만들기 (O)
@@ -95,10 +103,13 @@ class 'Adapter이름'(val context: Context, val 'ArrayList이름': ArrayList<'Da
     }
 }
 ```
-&nbsp;&nbsp
+
+&nbsp; &nbsp;
+
 ## bind함수의 '각 View에 데이터를 넣는 코드 죽 작성'?
 ImageView인 경우와, TextView인 경우가 각각 다릅니다.
 아래의 각 경우에 해당하는 코드들을 구성요소에 맞게 죽 써주시면 됩니다.
+
 ```java
 ...
             //ImageView의 경우
