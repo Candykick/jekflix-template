@@ -1,5 +1,5 @@
 ---
-date: 2020-08-05 16:45:07
+date: 2020-08-04 23:45:07
 layout: post
 title: "RecyclerView Adapter 깡통코드"
 subtitle:
