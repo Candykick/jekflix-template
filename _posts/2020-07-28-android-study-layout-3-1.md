@@ -1,7 +1,7 @@
 ---
 date: 2020-07-28 17:30:40
 layout: post
-title: "안드로이드로 시작하는 개발자 생활 3강 레이아웃"
+title: "안드로이드로 시작하는 개발자 생활 3강 #2 레이아웃"
 subtitle:
 description: "안드로이드로 시작하는 개발자 생활 레이아웃"
 image: "https://drive.google.com/uc?export=view&id=1RYVPWlb1rbj4NribLxj7iO2iJQ5Hf1Ob"
@@ -14,7 +14,7 @@ tags:
 author: candykick
 ---
 
-# 3주차 레이아웃 : 영화 앱 UI 만들기
+# 3주차 레이아웃 : 영화 앱 UI 만들기(Activity)
 &nbsp; ★ 한 줄 요약 : 아래와 같이 main_activity.xml의 레이아웃을 만들어주세요. &nbsp;&nbsp;
 ## Vertical Bias 조정하는 방법 
 * 네 방향 다 아래처럼 화면과 연결시킵니다.
