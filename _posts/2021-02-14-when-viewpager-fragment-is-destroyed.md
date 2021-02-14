@@ -1,5 +1,5 @@
 ---
-date: 2021-02-15 01:10:15
+date: 2021-02-14 13:20:19
 layout: post
 title: "Viewpager의 Fragment가 자꾸 destroy(onDestroyView)된다면?"
 subtitle:
