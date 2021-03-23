@@ -24,7 +24,7 @@ author: candykick
 
 1. [Github](https://github.com)에 들어가서 회원가입을 합니다.
 
-   ![1](https://doc-14-8c-docs.googleusercontent.com/docs/securesc/irkqe5utm3ako8f9iebbq7gicp5dbtfb/6tuddtli344e1fajhr9eceo5j7j0gl61/1616464725000/04124169725960204520/04124169725960204520/1G0k_bNs68iY4_I6kWhkY_A_ku6xBxmxV?e=view&authuser=0&nonce=fli0460ve8d16&user=04124169725960204520&hash=nttth45paerc5qh6tcbil420gc8giqf3 "")
+   ![1](http://drive.google.com/uc?export=view&id=1G0k_bNs68iY4_I6kWhkY_A_ku6xBxmxV)
 
 2. 왼쪽의 Repositories에서 'New'를 클릭해서 새 Repository(저장소)를 만듭니다.
 
