@@ -28,14 +28,14 @@ author: candykick
 
 2. 왼쪽의 Repositories에서 'New'를 클릭해서 새 Repository(저장소)를 만듭니다.
 
-   ![2](https://doc-0c-8c-docs.googleusercontent.com/docs/securesc/irkqe5utm3ako8f9iebbq7gicp5dbtfb/v29jl2t5r9qgdanqc2b5jkc3klth4tn0/1616464875000/04124169725960204520/04124169725960204520/1aH2_Zm0B--0QtP5XOI6kuVXzfqGy5Krc?e=view&authuser=0)
+   ![2](http://drive.google.com/uc?export=view&id=1aH2_Zm0B--0QtP5XOI6kuVXzfqGy5Krc)
 
 3. 'Repository Name'에 저장소 이름을 입력하고, 아래의 공개 범위는 Public으로 그대로 두고 맨 아래 'Create Repository' 버튼을 누릅니다.
-   ![3](https://doc-00-8c-docs.googleusercontent.com/docs/securesc/irkqe5utm3ako8f9iebbq7gicp5dbtfb/f794b28gok6ln3rq6e0i644s88tg9snl/1616464875000/04124169725960204520/04124169725960204520/1fxBFgOCNAaGs9b81Mtp77_vMU2-TQkpH?e=view&authuser=0)
+   ![3](http://drive.google.com/uc?export=view&id=1fxBFgOCNAaGs9b81Mtp77_vMU2-TQkpH)
 
 4. 화면 중간의 'uploading an existing file'을 클릭해서 파일을 업로드합니다.
-   ![4](https://doc-04-8c-docs.googleusercontent.com/docs/securesc/irkqe5utm3ako8f9iebbq7gicp5dbtfb/ila5vv6adt8pp65pdiaas1j0grtem76m/1616464950000/04124169725960204520/04124169725960204520/1hcdh774gTPh-mL4tSYQJMCd0OJDI7AUs?e=view&authuser=0)
-   ![5](https://doc-04-8c-docs.googleusercontent.com/docs/securesc/irkqe5utm3ako8f9iebbq7gicp5dbtfb/h0m0cdnugmikcin6p2bq4m7j5d5r8kem/1616465025000/04124169725960204520/04124169725960204520/1sYGkziTanaGn-va_M6WsJb91aWI28ict?e=view&authuser=0&nonce=lfn9nndgr65la&user=04124169725960204520&hash=4et0dd7ar6vt1o9b9g8u0j5qgtfi8ngg)
+   ![4](http://drive.google.com/uc?export=view&id=1hcdh774gTPh-mL4tSYQJMCd0OJDI7AUs)
+   ![5](http://drive.google.com/uc?export=view&id=1sYGkziTanaGn-va_M6WsJb91aWI28ict)
 
 5. 이후에는 아래처럼 'Add files' 버튼 -> 'Upload Files' 버튼을 눌러서 파일을 업로드합니다.
-   ![6](https://doc-0o-8c-docs.googleusercontent.com/docs/securesc/irkqe5utm3ako8f9iebbq7gicp5dbtfb/gevj0motha4m4dh77l0upsf23pbvt03c/1616465025000/04124169725960204520/04124169725960204520/1NwzMevIzpRRgWOmELhYrsXLGdoIA5CZT?e=view&authuser=0)
+   ![6](http://drive.google.com/uc?export=view&id=1NwzMevIzpRRgWOmELhYrsXLGdoIA5CZT)
