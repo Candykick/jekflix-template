@@ -6,6 +6,14 @@
         {% include svg-icons.html %}
         {% include header.html %}
 
+        <div style="text-align: center;">
+            <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}"
+              target="_blank">
+              <img
+                src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg" />
+            </a>
+        </div>
+
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
             <article role="article" class="post-content">
                 <p class="post-info">
